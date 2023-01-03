@@ -1,4 +1,4 @@
-# Progetto-IR
+# Progetto IR: How do you feel, my dear
 
 Correct order of execution of files:
 
@@ -7,3 +7,5 @@ Correct order of execution of files:
 3. film_dataset_builder_keras.ipynb
 4. script_emotion_predictions.ipynb
 5. character_emotion.ipynb
+
+You can find the paper in "Documentation" folder.
